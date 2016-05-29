@@ -13,7 +13,7 @@ If you want to bootstrap Maven, you'll need:
 
 - Java 1.7+123123
 - Maven 3.0.5 or later12321
-
+12412412
 Run Maven, specifying a location into which the completed 4214214Maven distro should be installed:
 
 ```
