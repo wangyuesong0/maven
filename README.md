@@ -14,7 +14,7 @@ If you want to bootstrap Maven, you'll need:
 - Java 1.7+123123
 - Maven 3.0.5 or later12321
 
-Run Maven, specifying a location into which the completed Maven distro should be installed:
+Run Maven, specifying a location into which the completed 4214214Maven distro should be installed:
 
 ```
 mvn -DdistributionTargetFolder="$HOME/app/maven/apache-maven-3.4.x-SNAPSHOT" clean package
