@@ -11,7 +11,7 @@ Maven is available under the [Apache License, Version 2.0](http://www.apache.org
 
 If you want to bootstrap Maven, you'll need:
 
-- Java 1.7+
+- Java 1.7+123123
 - Maven 3.0.5 or later
 
 Run Maven, specifying a location into which the completed Maven distro should be installed:
