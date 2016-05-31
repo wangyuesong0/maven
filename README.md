@@ -8,7 +8,7 @@ Maven is available under the [Apache License, Version 2.0](http://www.apache.org
 - [Running Core ITs](http://maven.apache.org/core-its/core-it-suite/)
 
 ## Bootstrapping Basics
-
+12342134
 If you want to bootstrap Maven, you'll need:
 
 - Java 1.7+123123
