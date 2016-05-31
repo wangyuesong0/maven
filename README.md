@@ -16,7 +16,7 @@ If you want to bootstrap Maven, you'll need:
 12412412
 Run Maven, specifying a location into which the completed 4214214Maven distro should be installed:
 12342134
-```
+```sdfaas
 mvn -DdistributionTargetFolder="$HOME/app/maven/apache-maven-3.4.x-SNAPSHOT" clean package
 ```124124321
 
